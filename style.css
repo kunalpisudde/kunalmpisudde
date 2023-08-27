@@ -87,7 +87,8 @@ align-items: center;
 }
 .home-img img{
     width: 20vw;
-
+margin: 50%;
+border-radius: 50%;
 }
 
 
