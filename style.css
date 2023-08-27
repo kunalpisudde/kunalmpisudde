@@ -82,22 +82,22 @@ display: none;
 }
 .home {
     display: flex;
-justify-content: center;
+justify-content:center;
 align-items: center;
 }
 .home-img img{
-    width: 25vw;
+    width: 20vw;
 
 }
 
 
 .home-content h3{
- font-size: 3.2rem;
-font-weight: 700;
+ font-size: 3rem;
+font-weight: 500;
 
 }
 .home-content h3:nth-of-type(2){
-margin-bottom: 2rem;
+margin-bottom: 3,2rem;
 
 }
 
@@ -105,12 +105,12 @@ span{
     color: var(--main-color);
 }
 .home-content h1{
-font-size: 5.6rem;
-font-weight: 700;
+font-size: 5.3rem;
+font-weight: 550;
 line-height: 1.3;
 }
 .home-content p{
-    font-size: 1.6rem;
+    font-size: 1.9rem;
 
 }
 .social-media a {
@@ -163,17 +163,38 @@ background: var(--secong-bg-color);
 }
 .about-content h2{
     text-align: left;
-    line-height: 1.2;
+    line-height: 2;
 }
 .about-content h3{
     font-size: 2.6rem;
+    line-height: 2;
+}
+.about-content h1{
+    font-size: 2rem;
+    line-height: 2;
+}
+.about-content h5{
+    font-size: 2rem;
+    line-height: 2;
+}
+.about-content h6{
+    font-size: 2rem;
+    line-height: 2;
 }
 .about-content p{
     font-size: 1.6rem;
     margin: 2rem 0 3rem;
 }
+.education h3{
+    font-size: 2rem;
+    
+    line-height: 1;
+}
+
 .education h2{
-    margin-bottom: 5rem;
+    font-size: 2rem;
+ 
+    line-height: 2;
 }
 
 .education-container{
@@ -246,12 +267,12 @@ padding: 0 4rem;
 
 }
 .project-layer h4{
-color: bisque;
+color: rgb(200, 196, 89);
 font-size: 3rem;
 
 }
 .project-layer p{
-color:white;
+color:rgb(142, 181, 187);
 width: 290px;
 font-size: 1.6rem;
 margin: 0.3rem 0 1rem;
