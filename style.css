@@ -187,9 +187,9 @@ gap: 2rem;
 
 .education-container .education-box{
 
-flex: 1 1 30rem;
+flex: 2 1 30rem;
 background: var(--secong-bg-color);
-padding: 3rem 2rem 4rem ;
+padding: 5rem 2rem 10rem ;
 border-radius: 2rem;
 text-align: center;
 border: 0.2rem solid var(--bg-color);
@@ -219,8 +219,9 @@ display: flex;
 
 }
 .project-box img{
-    width: 100
-    ;
+    width: 40% ;
+    height: auto;
+    
 }
 .project-box :hover img{
 
@@ -231,10 +232,10 @@ display: flex;
 
 .project-box .project-layer{
     position: absolute;
-bottom: 0;
+bottom: 60px;
 left: 0;
-width: 100%;
-height: 100%;
+width: 125%;
+height: auto;
 
 display: flex;
 justify-content: center;
@@ -245,12 +246,13 @@ padding: 0 4rem;
 
 }
 .project-layer h4{
-color: #1f242d;
+color: bisque;
 font-size: 3rem;
 
 }
 .project-layer p{
-color: #323946;
+color:white;
+width: 290px;
 font-size: 1.6rem;
 margin: 0.3rem 0 1rem;
 }
