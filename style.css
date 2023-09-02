@@ -88,7 +88,11 @@ align-items: center;
 .home-img img{
     width: 15vw;
 margin: 60%;
+<<<<<<< HEAD
 border-radius: 70%;
+=======
+border-radius: 55%;
+>>>>>>> 046ffa1debb6163ef7869d94174c20e4c046ce30
 }
 
 
