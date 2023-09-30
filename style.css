@@ -139,14 +139,14 @@ box-shadow: 0 0 1rem var(--main-color);
 }
 .btn{
     display: inline-block;
-padding: 1rem 2.8rem;
+padding: 1rem 2.1rem;
 background: var(--main-color);
 border-radius: 4rem;
 box-shadow: 0 0 1rem var(--main-color);
-font-size: 1.6rem;
+font-size: 1.7rem;
 color: var(--secong-bg-color);
 letter-spacing: 0.1rem;
-font-weight: 600;
+font-weight: 700;
 transition: 0.5s ease;
 }
 .btn:hover{
